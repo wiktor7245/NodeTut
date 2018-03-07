@@ -13,3 +13,6 @@ res.end('<html><head><title>Foobar</title></head><body><h1>Hello world!</h1></bo
 });
 server.listen(1337, '127.0.0.1'); //mozna usunac to ip zeby laczyc sie z innego kompa
 console.log('Server running at http://127.0.0.1:1337/');
+
+
+// w pliku myfirst jest caly html ale bez cssa, bo to nie chodzi
