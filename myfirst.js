@@ -1,3 +1,5 @@
+//http://localhost:8080/ - odpalenie spowoduje wyswietlenie Hello World!
+
 var http = require('http');
 
 http.createServer(function (req, res) {
